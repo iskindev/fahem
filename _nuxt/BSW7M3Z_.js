@@ -1,0 +1,1 @@
+import{Sn as e,in as t,on as n,t as r}from"./Bb6sVuYB.js";import{r as i,t as a}from"./Dafi-fco.js";import{t as o}from"./C-e7WCYt.js";var s={},c={class:`page width-wrap`};function l(r,s){let l=i,u=o,d=a;return e(),t(`div`,c,[n(l),n(u),n(d)])}var u=r(s,[[`render`,l],[`__scopeId`,`data-v-8ed85a06`]]);export{u as default};
